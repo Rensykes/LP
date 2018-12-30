@@ -1,3 +1,5 @@
 secret.js
 lp-server/server.js
 lp-client/node_modules
+lp-server/node_modules
+lp-clientaws/node_modules
